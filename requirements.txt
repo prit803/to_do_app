@@ -1,0 +1,5 @@
+# For running/testing on your computer:
+kivy==2.3.0
+# For building the APK:
+buildozer
+cython==0.29.36
